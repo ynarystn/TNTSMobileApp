@@ -21,7 +21,11 @@
         android:id="@+id/bottomNavigationView"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
         android:background="@color/white"
+=======
+        android:backgroundTint="@color/white"
+>>>>>>> de4be358e73dcad992338e2a46c60115a33b942a
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

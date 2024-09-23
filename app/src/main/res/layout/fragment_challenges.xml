@@ -20,6 +20,7 @@
         android:orientation="vertical"
         app:layout_constraintGuide_percent="0.90" />
 
+<<<<<<< HEAD
     <View
         android:id="@+id/whiteRectangle"
         android:layout_width="0dp"
@@ -52,6 +53,8 @@
         app:layout_constraintEnd_toStartOf="@+id/guideline_vertical1"
         app:layout_constraintTop_toTopOf="parent" />
 
+=======
+>>>>>>> de4be358e73dcad992338e2a46c60115a33b942a
     <ImageView
         android:layout_width="0dp"
         android:layout_height="match_parent"
